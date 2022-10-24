@@ -1,3 +1,13 @@
+## 📊 bar chart - vue-chartjs
+
+This is a bar chart with data of months from January till September.
+
+## 📦 libraries used
+
+🖥 -> https://vuejs.org/
+
+📊 -> https://vue-chartjs.org/
+
 # vue-chartjs
 
 ## Project setup
